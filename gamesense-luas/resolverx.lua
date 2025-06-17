@@ -23,10 +23,10 @@ Layer Index's
      - 0.0 when idle
 
 [4]  Unused
-     - Always 0.0 in your testing
+     - Values dont seem important, or is spitting useless weight values.
 
 [5]  Unused
-     - Always 0.0 in your testing
+     - Values dont seem important, or is spitting useless weight values.
 
 [6] Air/Fall Animation
      - Active when jumping or falling
@@ -55,8 +55,8 @@ Layer Index's
 
 [12] Pitch
      - 0.5 neutral
-     - ~0.0061 (0) when looking up
-     - ~0.9939 (1) when looking down
+     - ~0.0061 (-89) when looking up
+     - ~0.9939 (89) when looking down
 ]]
 
 
